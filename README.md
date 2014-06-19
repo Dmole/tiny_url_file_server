@@ -17,7 +17,7 @@ curl --http1.0 -F "secret=Bob" -F "file=@Alice.vcf" http://my.server.tld/h.php 2
 Download Example:
 
 ```bash
-curl --http1.0 -F "1_LuTZIYFxeu9oYdHt1KsD2y5I6g7CdJNYeHXWFDuT8Ei6RZATK3xNCCvITDk6n74CP2zuF3nNIGUAGvtqy1eaEKTxoeDMmIobKXFp13dJJ8jpDNQcO5ntg" http://my.server.tld/h.php
+curl --http1.0 -F "1_LuTZIYFxeu9oYdHt1KsD2y5I6g7CdJNYeHXWFDuT8Ei6RZATK3xNCCvITDk6n74CP2zuF3nNIGUAGvtqy1eaEKTxoeDMmIobKXFp13dJJ8jpDNQcO5ntg=" http://my.server.tld/h.php
 ```
 
 ```
